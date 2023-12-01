@@ -36,9 +36,7 @@ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | 
 [`.zshrc`](./oh-my-zsh/.zshrc)<br>
 
 ### Plugins
-plugins=(git z vscode autojump syntax-highlighting extract)
+plugins=(git z vscode extract)
 
 [Reference](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
 
-### Themes
-[powerlevel10k]()
