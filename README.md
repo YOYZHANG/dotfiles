@@ -27,6 +27,8 @@ others:
 - [i18n Ally]()
 - [Prettier]()
 
+### Font:
+anonymous-pro: https://www.marksimonson.com/fonts/view/anonymous-pro
 
 ## ZSH
 ```sh
