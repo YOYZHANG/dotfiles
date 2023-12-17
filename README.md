@@ -38,5 +38,13 @@ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | 
 ### Plugins
 plugins=(git z vscode extract)
 
-[Reference](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
+
+## mac app
+- vscode
+- notion
+- instapaper
+- spotify
+- warp
+- obsidian
+- snipaste
 
